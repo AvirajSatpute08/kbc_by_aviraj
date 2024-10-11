@@ -15,7 +15,7 @@ const questions = [
   {
     question: 'National Animal of India',
     options: ['Tiger', 'Elephant', 'Lion', 'Dog'],
-    answer: 'Lion',
+    answer: 'Tiger',
   },
   {
     question: 'What is the largest mammal in the world?',
