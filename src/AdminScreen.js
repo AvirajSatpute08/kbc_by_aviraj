@@ -43,7 +43,7 @@ const AdminScreen = () => {
       <h1>KBC Game - Scan QR-CODE to join the game</h1>
       
       {/* Single QR Code for all players to join the game */}
-      <QRCodeSVG value="https://kbcgame-bsmgumvv4-aviraj-satputes-projects.vercel.app/join" size={256} />
+      <QRCodeSVG value="https://kbc-by-aviraj-git-main-aviraj-satputes-projects.vercel.app/join" size={256} />
       
       <h2>{question.question}</h2>
       <div>
