@@ -5,7 +5,7 @@ const questions = [
   {
     question: 'What is the capital of India?',
     options: ['Mumbai', 'Delhi', 'Jaipur', 'Nagpur'],
-    answer: 'Mumbai',
+    answer: 'Delhi',
   },
   {
     question: 'Which planet is known as the Red Planet?',
